@@ -9,3 +9,4 @@ I'll provide multiple ways to complete the tasks I'm assigned and explain each m
 # Tasks:
 
 1. Printing Hello World
+2. Variables and some Operators
