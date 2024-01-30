@@ -94,8 +94,8 @@ Your favorite emoji to spice things up!
 # Let's  do it!
 
 print("Date: 18.12.2023")
-print("How I Feel Today?: Little Nervous")
-print("What I want to accomplish coding?: Get a job, then be my own Boss")
+print("How I Feel Today?: a little Nervous")
+print("What I want to accomplish coding?: Get a well paid and merithocratic job")
 print('Little sugestion from the future ME: "think BIG, Have Fun, Work Hard"')
 print("xD,=D")
 
